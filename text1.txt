@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 768B-7BD6
+
+ Directory of D:\myjavaprgs
+
+03-10-2019  16:52    <DIR>          .
+03-10-2019  16:52    <DIR>          ..
+01-10-2019  17:35               671 Demo.class
+03-10-2019  16:51               176 Demo.java
+03-10-2019  16:52                 0 text1.txt
+               3 File(s)            847 bytes
+               2 Dir(s)  656,124,088,320 bytes free
